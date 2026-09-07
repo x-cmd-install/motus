@@ -5,7 +5,7 @@ about:
   head: 70f1cb3
   archived: false
   latestVersion: "v0.5.0"
-  collectedAt: 2026-09-07T04:39:26Z
+  collectedAt: 2026-09-07T19:46:59Z
 timeline:
   created: 2023-05-06
   lastCommit: 2026-08-05
@@ -39,7 +39,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 3
+    commit: 0
   last90d:
     since: 2026-06-09
     release: 1
@@ -47,7 +47,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 11
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 1
@@ -55,7 +55,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 1
-    commit: 21
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 1
@@ -63,7 +63,7 @@ recent:
     openPR: 1
     closedIssue: 2
     openIssue: 2
-    commit: 60
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 4
@@ -81,7 +81,7 @@ total:
   commit: 188
 ---
 path: /home/runner/.x-repo/github.com/oleiade/motus
-collectedAt: 2026-09-07T04:39:27Z
+collectedAt: 2026-09-07T19:47:00Z
 loc:
   Rust:
     code: 1120
@@ -127,7 +127,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:39:29+00:00
+  collectedAt: 2026-09-07T19:47:01+00:00
   platform:
     darwin/arm64:
       name:  motus_0.5.0_darwin_arm64.zip
