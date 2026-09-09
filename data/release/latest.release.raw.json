@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14490852,
       "digest": "sha256:fb40b916e2f6b18102286b64c36b95640b0f22121a1bb04a174c91296d02295c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-07-12T08:48:12Z",
       "updated_at": "2026-07-12T08:48:14Z",
       "browser_download_url": "https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_arm64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 14914018,
       "digest": "sha256:f7d381bea31e042206ed519c21f6bb1e96170ec4f5bb2d7922b5069ee8c773f1",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-07-12T08:48:10Z",
       "updated_at": "2026-07-12T08:48:11Z",
       "browser_download_url": "https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_linux_amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 14479157,
       "digest": "sha256:7539375c671b4f0d01947293e66c0033748a2fc0fbe190f4150239a9eb6bc6f2",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-07-12T08:48:10Z",
       "updated_at": "2026-07-12T08:48:11Z",
       "browser_download_url": "https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_linux_arm64.tar.gz"
