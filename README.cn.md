@@ -4,7 +4,7 @@
 
 A dead simple password generator
 
-![motus](https://repo.x-cmd.io/motus.svg)
+![motus](https://repo.x-cmd.io/motus.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,23 @@ x install motus
 - **最新版本**: `v0.5.0` (2026-07-11)
 - **最近提交**: 2026-08-05
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-07-11T09:28:46Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [motus_0.5.0_amd64.apk](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_amd64.apk) | 15.0 MiB | `other` |
+| [motus_0.5.0_amd64.deb](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_amd64.deb) | 14.2 MiB | `runtime/deb/amd64` |
+| [motus_0.5.0_amd64.pkg.tar.zst](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_amd64.pkg.tar.zst) | 13.4 MiB | `other` |
+| [motus_0.5.0_amd64.rpm](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_amd64.rpm) | 14.3 MiB | `other` |
+| [motus_0.5.0_arm64.apk](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_arm64.apk) | 14.6 MiB | `other` |
+| [motus_0.5.0_arm64.deb](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_arm64.deb) | 13.8 MiB | `runtime/deb/arm64` |
+| [motus_0.5.0_arm64.pkg.tar.zst](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_arm64.pkg.tar.zst) | 13.0 MiB | `other` |
+| [motus_0.5.0_arm64.rpm](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_arm64.rpm) | 13.8 MiB | `other` |
+| [motus_0.5.0_checksums.txt](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_checksums.txt) | 1009 B | `other` |
+| [motus_0.5.0_darwin_arm64.zip](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_darwin_arm64.zip) | 2.0 MiB | `native/darwin/arm64` |
+| [motus_0.5.0_linux_amd64.tar.gz](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_linux_amd64.tar.gz) | 14.2 MiB | `native/linux/x64` |
+| [motus_0.5.0_linux_arm64.tar.gz](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_linux_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
 
 ## 流行度
 
@@ -61,4 +77,4 @@ motus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:34:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:37:01Z._
