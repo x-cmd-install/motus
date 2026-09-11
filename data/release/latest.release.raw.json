@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 14914018,
       "digest": "sha256:f7d381bea31e042206ed519c21f6bb1e96170ec4f5bb2d7922b5069ee8c773f1",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-07-12T08:48:10Z",
       "updated_at": "2026-07-12T08:48:11Z",
       "browser_download_url": "https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_linux_amd64.tar.gz"
