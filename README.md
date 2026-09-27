@@ -47,12 +47,12 @@ Total: **1,373** lines of code across **13** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-28 | 0 | 2 | 1 | 0 | 0 | 3 |
-| 90d | 2026-06-28 | 1 | 4 | 1 | 0 | 0 | 11 |
-| last180d | 2026-03-30 | 1 | 11 | 1 | 0 | 1 | 21 |
-| 360d | 2025-10-01 | 1 | 40 | 1 | 2 | 2 | 60 |
-| last720d | 2024-10-06 | 4 | 48 | 1 | 5 | 2 | 151 |
+| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-29 | 0 | 2 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-29 | 1 | 4 | 1 | 0 | 0 | 11 |
+| last180d | 2026-03-31 | 1 | 11 | 1 | 0 | 1 | 20 |
+| 360d | 2025-10-02 | 1 | 40 | 1 | 2 | 2 | 60 |
+| last720d | 2024-10-07 | 4 | 48 | 1 | 5 | 2 | 151 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for motus lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:58:51Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:14:10Z._
