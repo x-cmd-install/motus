@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14490852,
       "digest": "sha256:fb40b916e2f6b18102286b64c36b95640b0f22121a1bb04a174c91296d02295c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-07-12T08:48:12Z",
       "updated_at": "2026-07-12T08:48:14Z",
       "browser_download_url": "https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_arm64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1009,
       "digest": "sha256:35efc0e47212261b1fa4ffe797ad9dfb2fc5e135004f2043ee854d7f25f661e2",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-07-12T08:48:15Z",
       "updated_at": "2026-07-12T08:48:15Z",
       "browser_download_url": "https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_checksums.txt"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2067410,
       "digest": "sha256:03435c99790996daaefcf892ba11e4be15c7ccacb090ffc9315b49890b37c81d",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-07-12T08:48:10Z",
       "updated_at": "2026-07-12T08:48:10Z",
       "browser_download_url": "https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_darwin_arm64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 14914018,
       "digest": "sha256:f7d381bea31e042206ed519c21f6bb1e96170ec4f5bb2d7922b5069ee8c773f1",
-      "download_count": 51,
+      "download_count": 52,
       "created_at": "2026-07-12T08:48:10Z",
       "updated_at": "2026-07-12T08:48:11Z",
       "browser_download_url": "https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_linux_amd64.tar.gz"
