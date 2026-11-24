@@ -37,7 +37,7 @@ Total: **1,373** lines of code across **13** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 159 · **Forks**: 9 · **Open issues**: 10 · **Contributors**: 6
+- **Stars**: 158 · **Forks**: 9 · **Open issues**: 10 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **1,373** lines of code across **13** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 1 | 5 | 1 | 0 | 0 | 16 |
-| 360d | 2025-11-28 | 1 | 33 | 1 | 1 | 1 | 40 |
-| last720d | 2024-12-03 | 4 | 48 | 1 | 5 | 2 | 151 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 1 | 5 | 1 | 0 | 0 | 16 |
+| 360d | 2025-11-29 | 1 | 33 | 1 | 1 | 1 | 40 |
+| last720d | 2024-12-04 | 4 | 48 | 1 | 5 | 2 | 151 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for motus lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:39:06Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:52:15Z._
