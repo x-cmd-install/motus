@@ -47,12 +47,12 @@ Total: **1,373** lines of code across **13** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 1 | 5 | 1 | 0 | 0 | 16 |
-| 360d | 2025-11-29 | 1 | 33 | 1 | 1 | 1 | 40 |
-| last720d | 2024-12-04 | 4 | 48 | 1 | 5 | 2 | 151 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 1 | 5 | 1 | 0 | 0 | 16 |
+| 360d | 2025-11-30 | 1 | 32 | 1 | 1 | 1 | 40 |
+| last720d | 2024-12-05 | 4 | 48 | 1 | 5 | 2 | 151 |
 
 ## Release assets
 
@@ -71,14 +71,6 @@ Total: **1,373** lines of code across **13** files in the top 5 languages.
 | [motus_0.5.0_linux_amd64.tar.gz](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_linux_amd64.tar.gz) | 14.2 MiB | `native/linux/x64` |
 | [motus_0.5.0_linux_arm64.tar.gz](https://github.com/oleiade/motus/releases/download/v0.5.0/motus_0.5.0_linux_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/motus). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.5.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for motus lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `motus` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +80,4 @@ Install metadata for motus lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:52:15Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:23:54Z._
